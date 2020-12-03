@@ -45,3 +45,5 @@ We got a :star: from [@pedrolacerda](https://github.com/pedrolacerda)
 We got a :star: from [@jstoobz](https://github.com/jstoobz)
 
 We got a :star: from [@svanveen](https://github.com/svanveen)
+
+We got a :star: from [@whoamikyo](https://github.com/whoamikyo)
