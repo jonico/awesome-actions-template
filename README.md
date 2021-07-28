@@ -47,3 +47,5 @@ We got a :star: from [@jstoobz](https://github.com/jstoobz)
 We got a :star: from [@svanveen](https://github.com/svanveen)
 
 We got a :star: from [@whoamikyo](https://github.com/whoamikyo)
+
+We got a :star: from [@DennisRiemenschneider](https://github.com/DennisRiemenschneider)
