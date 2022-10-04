@@ -57,3 +57,5 @@ We got a :star: from [@hwtz](https://github.com/hwtz)
 We got a :star: from [@0x3st](https://github.com/0x3st)
 
 We got a :star: from [@Abhishek-Deshmukh](https://github.com/Abhishek-Deshmukh)
+
+We got a :star: from [@rowanelizabeth](https://github.com/rowanelizabeth)
