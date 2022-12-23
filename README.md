@@ -59,3 +59,5 @@ We got a :star: from [@0x3st](https://github.com/0x3st)
 We got a :star: from [@Abhishek-Deshmukh](https://github.com/Abhishek-Deshmukh)
 
 We got a :star: from [@rowanelizabeth](https://github.com/rowanelizabeth)
+
+We got a :star: from [@dduzgun-security](https://github.com/dduzgun-security)
