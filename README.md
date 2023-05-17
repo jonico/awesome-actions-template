@@ -63,3 +63,5 @@ We got a :star: from [@rowanelizabeth](https://github.com/rowanelizabeth)
 We got a :star: from [@dduzgun-security](https://github.com/dduzgun-security)
 
 We got a :star: from [@dduzgun-security](https://github.com/dduzgun-security)
+
+We got a :star: from [@dalakatt](https://github.com/dalakatt)
